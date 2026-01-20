@@ -37,7 +37,7 @@ generations to provide a platform offering developers golden paths with
 guardrails in a self-service, multi-tenant, GitOps-managed Kubernetes cluster
 fleet running both in AWS and our on-premise datacenter.
 
-I still find platform engineering interesting and challenging, and the emering
+I still find platform engineering interesting and challenging, and the emerging
 AI capabilities have proven to be useful to me in the diagnosis of problems,
 as well as human-in-the-loop remediation of them.
 
